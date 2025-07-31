@@ -1,0 +1,11 @@
+EmployeeID,Date,Feedback,Sentiment,Polarity,Month
+1,2023-01-31,I love working here!,Positive,0.625,2023-01
+2,2023-02-28,The environment is toxic.,Neutral,0.0,2023-02
+3,2023-03-31,It's okay.,Positive,0.5,2023-03
+4,2023-04-30,Management listens to concerns.,Neutral,0.0,2023-04
+5,2023-05-31,Feeling burned out.,Neutral,0.0,2023-05
+6,2023-06-30,My team supports me.,Neutral,0.0,2023-06
+7,2023-07-31,No career growth.,Neutral,0.0,2023-07
+8,2023-08-31,Everything is fine.,Positive,0.4166666666666667,2023-08
+9,2023-09-30,Best job ever!,Positive,1.0,2023-09
+10,2023-10-31,Too much workload and stress.,Positive,0.2,2023-10
